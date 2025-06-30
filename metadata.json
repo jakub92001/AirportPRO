@@ -1,0 +1,6 @@
+{
+  "name": "Airport Simulator Pro Online",
+  "description": "A minimalist web-based airport management simulator where you manage flights, contracts, resources, and expand your airport. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
